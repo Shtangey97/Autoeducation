@@ -1,3 +1,5 @@
+package ru.rambler;
+
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
 
@@ -111,7 +113,7 @@ public class HomeWork1 {
 //import org.junit.jupiter.api.Tag;
 //import org.junit.jupiter.api.Test;
 //
-//public class HomeWork1 {
+//public class ru.rambler.HomeWork1 {
 //
 //    @BeforeAll
 //    static void setup() {
